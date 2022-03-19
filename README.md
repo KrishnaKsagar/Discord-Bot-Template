@@ -1,5 +1,5 @@
 
-This Explains How we can run `Discord.js v13` with `Node v1.16.1`
+This Explains How we can run `Discord.js v13` with `Node v1.16`
 
 Step 1: Clone the repository in repl.it
 
@@ -11,7 +11,7 @@ Step 2: Select the language as node.js and type the following in the run contain
 
 Step 3: Type this command in `Shell`
 
-`npm i -D node@1.16.1`
+`npm i -D node@16`
 
 Step 4: Create a File called `node` and type the following data
 
@@ -27,7 +27,7 @@ npm file data:
 
 Step 6: Type this command in `Shell`
 
-`npm i -D npm@7.20.5`
+`npm i -D npm`
 
 Step 7: Create a File called `npx` and type the following data
 
