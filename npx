@@ -1,0 +1,1 @@
+`~/Template/node_modules/node/bin/node ~/Template/node_modules/npm/bin/npx-cli.js $@`
